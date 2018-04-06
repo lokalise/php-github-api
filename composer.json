@@ -1,5 +1,5 @@
 {
-    "name": "andrewi-wd/github-api",
+    "name": "andrewi-wd/php-github-api",
     "type": "library",
     "description": "GitHub API v3 client",
     "homepage": "https://github.com/KnpLabs/php-github-api",
